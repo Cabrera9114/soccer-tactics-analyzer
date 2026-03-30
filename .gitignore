@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+temp_plot.png
+soccer_tactics_report.pdf

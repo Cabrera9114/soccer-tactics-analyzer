@@ -1,0 +1,12 @@
+player,x,y,team,role
+GK,95,34,Team B,GK
+LB,80,10,Team B,DEF
+LCB,78,26,Team B,DEF
+RCB,78,42,Team B,DEF
+RB,80,58,Team B,DEF
+LCM,60,20,Team B,MID
+CM,58,34,Team B,MID
+RCM,60,48,Team B,MID
+LW,35,12,Team B,FWD
+ST,30,34,Team B,FWD
+RW,35,56,Team B,FWD

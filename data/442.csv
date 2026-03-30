@@ -1,0 +1,12 @@
+player,x,y,team,role
+GK,5,34,Team A,GK
+LB,20,10,Team A,DEF
+LCB,22,26,Team A,DEF
+RCB,22,42,Team A,DEF
+RB,20,58,Team A,DEF
+LM,40,10,Team A,MID
+LCM,42,26,Team A,MID
+RCM,42,42,Team A,MID
+RM,40,58,Team A,MID
+LS,68,24,Team A,FWD
+RS,68,44,Team A,FWD
