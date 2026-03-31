@@ -97,8 +97,8 @@ soccer-tactics-analyzer/
 │   ├── ai_analysis.py
 │   ├── ai_coach.py
 │   └── report.py
-```
 
+```
 ## ⚙️ How It Works
 
 The app reads player position data from CSV files and computes key tactical metrics such as **width, depth, compactness, and spacing**. It then visualizes the data on a soccer pitch, optionally overlays passing lanes, and uses AI to generate tactical analysis and coaching suggestions.
@@ -130,6 +130,7 @@ RCM,40,48,Team A,MID
 LW,65,12,Team A,FWD
 ST,70,34,Team A,FWD
 RW,65,56,Team A,FWD
+
 ```
 
 ---
