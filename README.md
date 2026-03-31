@@ -1,6 +1,24 @@
 # ⚽ Soccer Tactics Analyzer
 
-An interactive AI-powered soccer analytics application that visualizes team formations, analyzes tactical structure, and generates coaching insights from player positioning data.
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+![AI Powered](https://img.shields.io/badge/AI-OpenAI%20API-purple)
+
+---
+
+## 📚 Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [How It Works](#️-how-it-works)
+- [Sample CSV Format](#-sample-csv-format)
+- [Installation](#-installation)
+- [Challenges Solved](#-challenges-solved)
+- [Author](#-author)
+
+---
 
 ## Overview
 
@@ -24,11 +42,11 @@ The application allows users to explore team shape through multiple sample forma
   - Compares Team A and Team B on the same pitch
 
 - **Tactical Metrics**
-  - Team width
-  - Team depth
-  - Compactness
-  - Average X spacing
-  - Average Y spacing
+  - Team width  
+  - Team depth  
+  - Compactness  
+  - Average X spacing  
+  - Average Y spacing  
 
 - **Passing Lane Analysis**
   - Draws likely passing connections between nearby players
